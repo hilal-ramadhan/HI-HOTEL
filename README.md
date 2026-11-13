@@ -1,6 +1,6 @@
 # 🏨 Aplikasi Reservasi Hotel
 <p align="center">
-  <img src="logo-hotel.png" width="180" alt="Logo Aplikasi Hotel">
+  <img src="logo-hotel.png" width="500" alt="Logo Aplikasi Hotel">
 </p>
 
 ## 📌 Deskripsi
