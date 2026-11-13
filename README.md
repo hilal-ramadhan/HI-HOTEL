@@ -1,4 +1,7 @@
 # 🏨 Aplikasi Reservasi Hotel
+<p align="center">
+  <img src="logo-hotel.png" width="180" alt="Logo Aplikasi Hotel">
+</p>
 
 ## 📌 Deskripsi
 Aplikasi Reservasi Hotel adalah aplikasi berbasis desktop yang dibuat menggunakan **Visual Basic .NET (VB.NET) dengan Windows Forms** dan **Microsoft SQL Server** sebagai database.
