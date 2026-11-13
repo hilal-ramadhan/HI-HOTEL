@@ -1,5 +1,4 @@
 # 🏨 Aplikasi Reservasi Hotel
-# Screenshot 2026-11-13 214043.png
 
 ## 📌 Deskripsi
 Aplikasi Reservasi Hotel adalah aplikasi berbasis desktop yang dibuat menggunakan **Visual Basic .NET (VB.NET) dengan Windows Forms** dan **Microsoft SQL Server** sebagai database.
